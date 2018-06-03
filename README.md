@@ -1,4 +1,4 @@
-# victoriatran.github.io >> READ.md
+# victoriatran.github.io >> README.md
 echo # victoriatran.github.io
 
 1. ASPECTS OF WORK IMPLEMENTED
