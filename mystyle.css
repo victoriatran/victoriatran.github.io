@@ -1,5 +1,5 @@
 body {
-	background-color: blue;
+	background-color: #999999;
 }
 
 h1 {
@@ -7,6 +7,15 @@ h1 {
 	margin-left: 20px;
 }
 
+p {
+	margin-left: 20px;
+}
+
 img {
-	width: 150px;
+	width: 300px;
+	margin-left: 20px;
+}
+
+.links {
+	margin-left: 20px;
 }
