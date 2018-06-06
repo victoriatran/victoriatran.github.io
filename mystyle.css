@@ -5,17 +5,22 @@ body {
 h1 {
 	color: black;
 	margin-left: 20px;
+	font-family: "Optima";
 }
 
 p {
 	margin-left: 20px;
+	font-family: "Optima";
+	font-style: italic;
 }
 
 img {
 	width: 300px;
 	margin-left: 20px;
+	padding-top: 20px;
 }
 
 .links {
 	margin-left: 20px;
+	padding: 70px;
 }
